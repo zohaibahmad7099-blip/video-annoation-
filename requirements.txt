@@ -1,0 +1,8 @@
+numpy>=2.0,<2.3
+opencv-python
+pandas>=2.0
+Pillow
+PyYAML
+tqdm
+ultralytics
+lap>=0.5.12

@@ -1,0 +1,28 @@
+{
+ "reviewer": "",
+ "pose_weights": "C:\\Users\\Wadood\\Downloads\\labelling_task_Zohaib\\yolo11m-pose.pt",
+ "device": "cpu",
+ "display_width": 1600,
+ "manual_checks": {
+  "first_video": [
+   true,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false
+  ]
+ },
+ "export_dir": "",
+ "last_video": ""
+}
